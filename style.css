@@ -4,6 +4,7 @@ body{
     font-family: 'Raleway', sans-serif;
     font-size: 14px;
     color: #6c7279;
+    -webkit-font-smoothing: anmtialiased;
     background-color: white;
 }
 
